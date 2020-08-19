@@ -1,0 +1,4 @@
+- Servidor Linux;
+- My Sql;
+- Precisa funcionar por 24hrs;
+- E ser online, criação de site ou plataforma

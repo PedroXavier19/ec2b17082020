@@ -1,0 +1,2 @@
+- Iremos fazer a implantação até 10 de Outubro de 2020;
+- O sistema será operado através de 15 máquinas;

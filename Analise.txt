@@ -1,0 +1,6 @@
+- Controle de transporte;
+- Origem e destino;
+- Limite de pessoas;
+- Um analista;
+- Dois programadores;
+- Um funcionário especialista em suporte

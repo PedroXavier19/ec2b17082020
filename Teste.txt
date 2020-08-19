@@ -1,0 +1,2 @@
+- Sistema deve suportar até mil pessoas;
+- A forma de pagamento é no cartão de crédito, débito ou Pay Pal
